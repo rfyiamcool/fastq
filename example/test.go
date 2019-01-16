@@ -9,7 +9,7 @@ import (
 func main() {
 	fastq.Init()
 	msg := &fastq.Message{
-		Module:     "test",
+		Module:     "xiaorui.cc",
 		Msg:        "i love u",
 		RetryTimes: 1,
 	}
